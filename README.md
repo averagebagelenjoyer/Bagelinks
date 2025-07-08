@@ -1,3 +1,3 @@
 # Bagelinks
-[![](https://img.shields.io/badge/Github-gray)](https://github.com/averagebagelenjoyer/)
-[![](https://img.shields.io/badge/Reddit-orange)](https://www.reddit.com/user/BagelDev/)
+[![](https://img.shields.io/badge/Github-gray?logo=github)](https://github.com/averagebagelenjoyer/)
+[![](https://img.shields.io/badge/Reddit-white?logo=reddit)](https://www.reddit.com/user/BagelDev/)
